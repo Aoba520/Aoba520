@@ -4,5 +4,5 @@
 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorFrom=b3e5fc&colorTo=e1bee7&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=未来的%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorFrom=b3e5fc&colorTo=e1bee7&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=未来的事情无人知晓，%所以他才如同这久别重逢般，%20拥有着无限的可能。&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
